@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "665e5984dad7ebb462cdafc7",
+    "categoryName": "Python",
+    "img": "https://st2.depositphotos.com/30845988/42456/i/450/depositphotos_424564626-stock-photo-python-inscription-laptop-code-background.jpg"
+  },
+  {
+    "_id": "665e5984dad7ebb462cdafc8",
+    "categoryName": "javascript",
+    "img": "https://www.classcentral.com/report/wp-content/uploads/2022/06/JavaScript-BCG-Banner-icons.png"
+  },
+  {
+    "_id": "665e5984dad7ebb462cdafc9",
+    "categoryName": "java",
+    "img": "https://cdn.windowsreport.com/wp-content/uploads/2020/04/Download-Java-latest-version.png"
+  },
+  {
+    "_id": "665e5984dad7ebb462cdafca",
+    "categoryName": "Ruby",
+    "img": "https://d2i2nj5el4wq1j.cloudfront.net/assets/courses/beginner-course-cf789b85328e4b8fac61cdf9ff8f69160dc290c48272b06e008c9081b024245c.png"
+  }
+  
+]
